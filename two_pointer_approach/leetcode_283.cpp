@@ -3,7 +3,7 @@
 #include<iostream>
 #include<vector>
 using namespace std;
-///69. SQRT using binary search.
+///283. Move Zeroes
 
 void moveZeroes(vector<int>& nums) {
         int zero = 0 ,num = 0;
